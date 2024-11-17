@@ -1,0 +1,25 @@
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\bin\Debug\Attendance Management System.exe.config
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\bin\Debug\Attendance Management System.exe
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\bin\Debug\Attendance Management System.pdb
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\bin\Debug\MetroFramework.dll
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance Management System.csprojResolveAssemblyReference.cache
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Assignment_Result.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Assignment.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Attendance.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Class.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Dashboard.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Department.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Faculty.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Properties.Resources.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Quiz_Result.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Quiz.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Role.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Semester_Subject.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Semester.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Student.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Subject.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Teacher_Subject.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance_Management_System.Teacher.resources
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance Management System.csproj.GenerateResource.Cache
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance Management System.exe
+C:\Users\Nasratullah Shafiq\Desktop\Attendance AMS\Attendance Management System\obj\Debug\Attendance Management System.pdb
